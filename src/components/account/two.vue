@@ -6,7 +6,7 @@
                         
                             <div class="row">
                                 <div class="col-md-6">
-                                    <label>Account Code</label>
+                                    <label>Billinh Firm Name</label>
                                 </div>
                                 <div class="col-md-6">
                                     <input class="form-control" >
@@ -14,50 +14,178 @@
                             </div>
                             <div class="row">
                                 <div class="col-md-6">
-                                    <label>Account Name</label>
+                                    <label>Contact Person</label>
                                 </div>
                                 <div class="col-md-6">
                                     <input class="form-control" >
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <label>Alias</label>
-                                </div>
-                                <div class="col-md-6">
-                                    <input class="form-control" >
-                                </div>
-                            </div>
+                      
                     </div>
                 </div>
 
-                 <div class="col-md-6">
-                        <div class="p-2">
-                            <div class="row border-custom">
+                <div class="col-md-6 p-2">
+                    <div class="border-custom pr-2 pl-2">
+                        
+                            <div class="row">
                                 <div class="col-md-6">
-                                    <label>Account Type</label>
+                                    <label>Credit Days Limit</label>
                                 </div>
                                 <div class="col-md-6">
                                     <input class="form-control" >
                                 </div>
-                                <div class="col-md-12 pr-3 pl-3 pt-3 d-flex justify-content-center">
-                                    <div class="account m-3">
-                                        <input type="radio"  name="type"> <span>Account</span>
-                                    </div>
-                                    <div class="group m-3">
-                                        <input type="radio" name="type"> <span>Group</span>
-                                    </div>    
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label>Membership No</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input class="form-control" >
                                 </div>
                             </div>
-                        </div>
-                 </div>
+                      
+                    </div>
+                </div>
+        </div>
 
+        <div class="row">ls
+            
+                <div class="col-md-6 p-2">
+                    <span class="address">Address</span>
+                    <div class="border-custom pr-2 pl-2">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label>Zipcode</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input class="form-control" >
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label>City</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input class="form-control" >
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label>State</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input class="form-control" >
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label>Country</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input class="form-control" >
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label>Birthdate</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input class="form-control" type="date">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label>Aniversry</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input class="form-control" type="date">
+                                </div>
+                            </div>
+                      
+                    </div>
+                </div>
+
+                <div class="col-md-6 p-2">
+                    <span class="address">Contact Details</span>
+                    <div class="border-custom pr-2 pl-2">
+                        
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label>Phone</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input class="form-control" >
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label>Fax</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input class="form-control" >
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label>Email</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input class="form-control" >
+                                </div>
+                            </div>
+                      
+                    </div>
+                    <br>
+                    <div class="border-custom pr-2 pl-2">
+                        
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label>PAN No.</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input class="form-control" >
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label>LIC No.</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input class="form-control" >
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label>CST No.</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input class="form-control" >
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <label>Stable ST No</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input class="form-control" >
+                                </div>
+                            </div>
+                      
+                    </div>
+                </div>
         </div>
     </div>
 </template>
 
 
 <style scoped>
+span.address {
+    position: relative;
+    left: 28px;
+    top: 11px;
+    background-color: white;
+    padding: 14px;
+}
 div.p-2>div.test>div.row{
     margin-top: 10px;
 }
