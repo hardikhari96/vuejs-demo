@@ -48,8 +48,8 @@
                 </div>
         </div>
 
-        <div class="row">ls
-            
+        <div class="row">
+
                 <div class="col-md-6 p-2">
                     <span class="address">Address</span>
                     <div class="border-custom pr-2 pl-2">
